@@ -3,7 +3,7 @@
 - To Get Access via SSH
 ```sh
 Syntax:- ssh -p PORT USERNAME@HOSTIP
-Example:- ssh -p 22 root@127.124.01.01
+Example:- ssh -p 22 serveradept@198.128.0.1
 ```
 
 - Updates the package lists for Upgrades then Upgrade
