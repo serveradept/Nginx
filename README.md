@@ -62,7 +62,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - [Nginx Forum](https://forum.nginx.org/)
 - [Stack Overflow - Nginx Questions](https://stackoverflow.com/questions/tagged/nginx) - Get help from the Stack Overflow community for Nginx related questions.
 
-**License:**
-This project is licensed under the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause).
+#### License:
+- This project is licensed under the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause).
 
 #### 🎉 Congratulations! You're now ready to unleash the power of Nginx! 🎉
