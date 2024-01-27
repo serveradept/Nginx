@@ -5,13 +5,13 @@ Nginx (pronounced "engine x") is a powerful web server and reverse proxy server.
 
 #### Features:
 
-1. High performance: Handles thousands of concurrent connections efficiently.
-2. Scalability: Scales well under high loads without consuming excessive resources.
-3. Reverse proxy: Acts as a reverse proxy server, forwarding requests to other servers.
-4. Load balancing: Distributes incoming traffic across multiple servers to improve reliability and performance.
-5. SSL/TLS support: Provides robust encryption capabilities for secure connections.
-6. URL rewriting: Allows for flexible and powerful URL manipulation.
-7. Modular architecture: Supports dynamic module loading for extending functionality.
+- High performance: Handles thousands of concurrent connections efficiently.
+- Scalability: Scales well under high loads without consuming excessive resources.
+- Reverse proxy: Acts as a reverse proxy server, forwarding requests to other servers.
+- Load balancing: Distributes incoming traffic across multiple servers to improve reliability and performance.
+- SSL/TLS support: Provides robust encryption capabilities for secure connections.
+- URL rewriting: Allows for flexible and powerful URL manipulation.
+- Modular architecture: Supports dynamic module loading for extending functionality.
 
 #### Installation:
 
