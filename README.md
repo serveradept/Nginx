@@ -45,11 +45,11 @@ Logs: /var/log/nginx/**
 
 #### Basic Commands:
 
-Start Nginx: **sudo systemctl start nginx**
-Stop Nginx: **sudo systemctl stop nginx**
-Restart Nginx: **sudo systemctl restart nginx**
-Reload Configuration: **sudo systemctl reload nginx**
-Check Configuration: **sudo nginx -t**
+- Start Nginx: **sudo systemctl start nginx**
+- Stop Nginx: **sudo systemctl stop nginx**
+- Restart Nginx: **sudo systemctl restart nginx**
+- Reload Configuration: **sudo systemctl reload nginx**
+- Check Configuration: **sudo nginx -t**
 
 #### Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
